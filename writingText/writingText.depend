@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524818765 source:c:\users\lenovo\documents\writingtext\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
