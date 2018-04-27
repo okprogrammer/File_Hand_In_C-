@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524828997 source:c:\users\lenovo\documents\parsingtext\main.cpp
+	<iostream>
+	<fstream>
+

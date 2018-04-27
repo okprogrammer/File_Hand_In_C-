@@ -1,0 +1,2 @@
+Population UK:64000000
+Population US:64600000
